@@ -1,6 +1,6 @@
 TinDog Starting Files
 
-Project Description:
+Project Description: <br/>
 A simple website that allows dogs to connect with each other!
 
 Tools Used:
